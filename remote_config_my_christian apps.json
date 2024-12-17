@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "app_url_vm": {
+      "defaultValue": {
+        "value": "https://apklis.cu/application/com.android.verseminute"
+      },
+      "description": "Enlace para descargar la app VerseMinute",
+      "valueType": "STRING"
+    },
+    "min_version_vm": {
+      "defaultValue": {
+        "value": "1.0.0"
+      },
+      "description": "Versión mínima para utilizar la app VerseMinute",
+      "valueType": "STRING"
+    }
+  }
+}

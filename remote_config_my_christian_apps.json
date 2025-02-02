@@ -9,7 +9,7 @@
     },
     "min_version_vm": {
       "defaultValue": {
-        "value": "1.0.0"
+        "value": "0.0.1"
       },
       "description": "Versión mínima para utilizar la app VerseMinute",
       "valueType": "STRING"
